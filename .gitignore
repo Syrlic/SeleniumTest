@@ -9,6 +9,23 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
-
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
+.idea
+resources/
+resources/schema
+.allure/
+.gradle/
+allure-results/
+gradle/
+build/
+bin/
+out/
+logs/
+target/
+.classpath
+.project
+.settings/org.eclipse.buildship.core.prefs
+.vscode
+/gradlew
+/gradlew.bat
+.todo
+*.properties
